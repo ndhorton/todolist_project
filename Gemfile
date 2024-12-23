@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-# For now, we don't want a .gemspec file. To be added later.
+gemspec
 
 ruby '3.1.0'
 
@@ -9,4 +9,3 @@ gem 'minitest-reporters', '~> 1.1'
 gem 'stamp', '~> 0.6'
 gem 'rake', '~> 13.2.1'
 
-gemspec
